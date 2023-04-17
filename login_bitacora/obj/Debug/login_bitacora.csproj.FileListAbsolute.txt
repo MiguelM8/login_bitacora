@@ -1,0 +1,12 @@
+C:\Users\manue\source\repos\login_bitacora\login_bitacora\bin\Debug\login_bitacora.exe.config
+C:\Users\manue\source\repos\login_bitacora\login_bitacora\bin\Debug\login_bitacora.exe
+C:\Users\manue\source\repos\login_bitacora\login_bitacora\bin\Debug\login_bitacora.pdb
+C:\Users\manue\source\repos\login_bitacora\login_bitacora\obj\Debug\login_bitacora.csproj.AssemblyReference.cache
+C:\Users\manue\source\repos\login_bitacora\login_bitacora\obj\Debug\login_bitacora.csproj.SuggestedBindingRedirects.cache
+C:\Users\manue\source\repos\login_bitacora\login_bitacora\obj\Debug\login_bitacora.Form1.resources
+C:\Users\manue\source\repos\login_bitacora\login_bitacora\obj\Debug\login_bitacora.Properties.Resources.resources
+C:\Users\manue\source\repos\login_bitacora\login_bitacora\obj\Debug\login_bitacora.csproj.GenerateResource.cache
+C:\Users\manue\source\repos\login_bitacora\login_bitacora\obj\Debug\login_bitacora.csproj.CoreCompileInputs.cache
+C:\Users\manue\source\repos\login_bitacora\login_bitacora\obj\Debug\login_bitacora.exe
+C:\Users\manue\source\repos\login_bitacora\login_bitacora\obj\Debug\login_bitacora.pdb
+C:\Users\manue\source\repos\login_bitacora\login_bitacora\obj\Debug\login_bitacora.Form2.resources
